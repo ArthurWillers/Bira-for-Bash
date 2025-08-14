@@ -81,6 +81,16 @@ rm -rf ~/.bash_themes/bira-bash
 
 4. Reload your shell configuration with `source ~/.bashrc` or restart your terminal
 
+## Contributing
+
+Contributions are welcome! Whether it's bug fixes, new features, or improvements to the documentation, feel free to:
+
+- Open an issue to report bugs or suggest enhancements
+- Submit pull requests with your improvements
+- Share feedback and suggestions
+
+All contributions help make this project better for everyone.
+
 ## Acknowledgements
 
 This theme is an adaptation inspired by the "bira" theme from the incredible [Oh My Zsh](https://ohmyz.sh/) project.
